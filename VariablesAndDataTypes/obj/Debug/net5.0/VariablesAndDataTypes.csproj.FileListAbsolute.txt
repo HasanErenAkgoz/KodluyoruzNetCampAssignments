@@ -1,0 +1,16 @@
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\VariablesAndDataTypes\bin\Debug\net5.0\VariablesAndDataTypes.exe
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\VariablesAndDataTypes\bin\Debug\net5.0\VariablesAndDataTypes.deps.json
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\VariablesAndDataTypes\bin\Debug\net5.0\VariablesAndDataTypes.runtimeconfig.json
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\VariablesAndDataTypes\bin\Debug\net5.0\VariablesAndDataTypes.runtimeconfig.dev.json
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\VariablesAndDataTypes\bin\Debug\net5.0\VariablesAndDataTypes.dll
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\VariablesAndDataTypes\bin\Debug\net5.0\ref\VariablesAndDataTypes.dll
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\VariablesAndDataTypes\bin\Debug\net5.0\VariablesAndDataTypes.pdb
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.csprojAssemblyReference.cache
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.AssemblyInfoInputs.cache
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.AssemblyInfo.cs
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.csproj.CoreCompileInputs.cache
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.dll
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\VariablesAndDataTypes\obj\Debug\net5.0\ref\VariablesAndDataTypes.dll
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.pdb
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.genruntimeconfig.cache
