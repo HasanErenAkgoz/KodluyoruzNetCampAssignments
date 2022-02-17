@@ -6,58 +6,18 @@ namespace Operators
     {
         static void Main(string[] args)
         {
-            int x = 2;
-            int y = 3;
-            y = y + 2;
+            solve(12,20,8);
 
-            System.Console.WriteLine(y);
-            y += 2;
-            System.Console.WriteLine(y);
-            y /= 1;
-            System.Console.WriteLine(y);
-            x += 2;
-            System.Console.WriteLine(x);
+        }
+        public static void solve(double meal_cost, int tip_percent, int tax_percent)
+        {
+           double tip_percent=meal_cost*tip_percent/100;
+           double tax_percent=meal_cost*tax_percent/100;
+           double totalcost=meal_cost+tip_percent+tax_percent;
+           System.Console.WriteLine(Math.Round(totalcost));
 
-            bool isSuccess = true;
-            bool isCompoted = false;
-
-            if (isSuccess && isCompoted)
-                System.Console.WriteLine("Perfect!");
-
-            if (isSuccess || isCompoted)
-                System.Console.WriteLine("Great!");
-
-            if (isSuccess && !isCompoted)
-                System.Console.WriteLine("Fine!");
-
-
-            int a = 2;
-            int b = 4;
-            bool sonuc = a < b;
-
-            System.Console.WriteLine(sonuc);
-            sonuc = a < b;
-            System.Console.WriteLine(sonuc);
-            sonuc = a <= b;
-            System.Console.WriteLine(sonuc);
-            sonuc = a >= b;
-            System.Console.WriteLine(sonuc);
-            sonuc = a == b;
-            System.Console.WriteLine(sonuc);
-            sonuc = a != b;
-            System.Console.WriteLine(sonuc);
-
-            int sayı = 10;
-            int sayı2 = 5;
-            int sonuc1 = sayı / sayı2;
-            System.Console.WriteLine(sonuc1);
-            sonuc1 = sayı * sayı2;
-            System.Console.WriteLine(sonuc);
-            sonuc1=sayı+sayı2;
-            System.Console.WriteLine(sonuc);
-            sonuc1=sayı*sayı2;
-            System.Console.WriteLine(sonuc);
-
+           
+            
         }
     }
 }

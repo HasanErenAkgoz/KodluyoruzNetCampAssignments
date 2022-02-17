@@ -1,0 +1,16 @@
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\TypeConversions\bin\Debug\net5.0\TypeConversions.exe
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\TypeConversions\bin\Debug\net5.0\TypeConversions.deps.json
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\TypeConversions\bin\Debug\net5.0\TypeConversions.runtimeconfig.json
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\TypeConversions\bin\Debug\net5.0\TypeConversions.runtimeconfig.dev.json
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\TypeConversions\bin\Debug\net5.0\TypeConversions.dll
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\TypeConversions\bin\Debug\net5.0\ref\TypeConversions.dll
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\TypeConversions\bin\Debug\net5.0\TypeConversions.pdb
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\TypeConversions\obj\Debug\net5.0\TypeConversions.csprojAssemblyReference.cache
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\TypeConversions\obj\Debug\net5.0\TypeConversions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\TypeConversions\obj\Debug\net5.0\TypeConversions.AssemblyInfoInputs.cache
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\TypeConversions\obj\Debug\net5.0\TypeConversions.AssemblyInfo.cs
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\TypeConversions\obj\Debug\net5.0\TypeConversions.csproj.CoreCompileInputs.cache
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\TypeConversions\obj\Debug\net5.0\TypeConversions.dll
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\TypeConversions\obj\Debug\net5.0\ref\TypeConversions.dll
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\TypeConversions\obj\Debug\net5.0\TypeConversions.pdb
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\TypeConversions\obj\Debug\net5.0\TypeConversions.genruntimeconfig.cache
