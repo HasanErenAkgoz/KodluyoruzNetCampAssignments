@@ -21,8 +21,6 @@ namespace TypeConversions
            string e="zikriye";
            char f='k';
            object g=e+f;
-           System.Console.WriteLine(g);
-
            
 
 
