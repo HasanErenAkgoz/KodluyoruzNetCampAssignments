@@ -6,16 +6,19 @@ namespace If_Else
     {
         static void Main(string[] args)
         {
-            bool condition = true;
-
-            if (condition)
-            {
-                Console.WriteLine("Değişken: true");
-            }
+            int time=DateTime.Now.Hour;
+            if(time>=6 &&time<11)
+            System.Console.WriteLine("Günaydın");
+            
+            else if(time<=18)
+            System.Console.WriteLine("İyi Günler");
             else
-            {
-                Console.WriteLine("Değişken: false");
-            }
+            System.Console.WriteLine("İyi Geceler");
+
+            string sonuc=time<=18? "İyi Günler":"İyi Geceler";
+            sonuc=time>=6 && time<=11?"Günaydın":time<=18?"İyi Günler":"İyi geceler";
+            System.Console.WriteLine(sonuc);
+
         }
     }
 }
