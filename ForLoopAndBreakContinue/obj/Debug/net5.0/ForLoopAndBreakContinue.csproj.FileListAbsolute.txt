@@ -1,0 +1,16 @@
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\ForLoopAndBreakContinue\bin\Debug\net5.0\ForLoopAndBreakContinue.exe
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\ForLoopAndBreakContinue\bin\Debug\net5.0\ForLoopAndBreakContinue.deps.json
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\ForLoopAndBreakContinue\bin\Debug\net5.0\ForLoopAndBreakContinue.runtimeconfig.json
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\ForLoopAndBreakContinue\bin\Debug\net5.0\ForLoopAndBreakContinue.runtimeconfig.dev.json
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\ForLoopAndBreakContinue\bin\Debug\net5.0\ForLoopAndBreakContinue.dll
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\ForLoopAndBreakContinue\bin\Debug\net5.0\ref\ForLoopAndBreakContinue.dll
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\ForLoopAndBreakContinue\bin\Debug\net5.0\ForLoopAndBreakContinue.pdb
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\ForLoopAndBreakContinue\obj\Debug\net5.0\ForLoopAndBreakContinue.csprojAssemblyReference.cache
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\ForLoopAndBreakContinue\obj\Debug\net5.0\ForLoopAndBreakContinue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\ForLoopAndBreakContinue\obj\Debug\net5.0\ForLoopAndBreakContinue.AssemblyInfoInputs.cache
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\ForLoopAndBreakContinue\obj\Debug\net5.0\ForLoopAndBreakContinue.AssemblyInfo.cs
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\ForLoopAndBreakContinue\obj\Debug\net5.0\ForLoopAndBreakContinue.csproj.CoreCompileInputs.cache
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\ForLoopAndBreakContinue\obj\Debug\net5.0\ForLoopAndBreakContinue.dll
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\ForLoopAndBreakContinue\obj\Debug\net5.0\ref\ForLoopAndBreakContinue.dll
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\ForLoopAndBreakContinue\obj\Debug\net5.0\ForLoopAndBreakContinue.pdb
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\ForLoopAndBreakContinue\obj\Debug\net5.0\ForLoopAndBreakContinue.genruntimeconfig.cache
