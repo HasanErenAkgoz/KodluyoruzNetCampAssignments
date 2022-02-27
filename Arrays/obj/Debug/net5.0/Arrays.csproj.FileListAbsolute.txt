@@ -1,0 +1,16 @@
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\Arrays\bin\Debug\net5.0\Arrays.exe
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\Arrays\bin\Debug\net5.0\Arrays.deps.json
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\Arrays\bin\Debug\net5.0\Arrays.dll
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\Arrays\bin\Debug\net5.0\Arrays.pdb
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\Arrays\obj\Debug\net5.0\Arrays.csprojAssemblyReference.cache
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\Arrays\obj\Debug\net5.0\Arrays.dll
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\Arrays\obj\Debug\net5.0\Arrays.pdb
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache
