@@ -1,0 +1,16 @@
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathHomework\obj\Debug\net5.0\PathHomework.csprojAssemblyReference.cache
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathHomework\obj\Debug\net5.0\PathHomework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathHomework\obj\Debug\net5.0\PathHomework.AssemblyInfoInputs.cache
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathHomework\obj\Debug\net5.0\PathHomework.AssemblyInfo.cs
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathHomework\obj\Debug\net5.0\PathHomework.csproj.CoreCompileInputs.cache
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathHomework\bin\Debug\net5.0\PathHomework.exe
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathHomework\bin\Debug\net5.0\PathHomework.deps.json
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathHomework\bin\Debug\net5.0\PathHomework.runtimeconfig.json
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathHomework\bin\Debug\net5.0\PathHomework.runtimeconfig.dev.json
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathHomework\bin\Debug\net5.0\PathHomework.dll
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathHomework\bin\Debug\net5.0\ref\PathHomework.dll
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathHomework\bin\Debug\net5.0\PathHomework.pdb
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathHomework\obj\Debug\net5.0\PathHomework.dll
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathHomework\obj\Debug\net5.0\ref\PathHomework.dll
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathHomework\obj\Debug\net5.0\PathHomework.pdb
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathHomework\obj\Debug\net5.0\PathHomework.genruntimeconfig.cache

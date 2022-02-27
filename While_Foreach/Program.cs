@@ -32,5 +32,9 @@ namespace While_Foreach
                 Console.WriteLine(i);
             }
         }
+
+        public void CiftSayıBulma(){
+            
+        }
     }
 }
