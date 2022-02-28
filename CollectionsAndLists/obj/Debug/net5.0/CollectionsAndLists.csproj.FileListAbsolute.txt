@@ -1,0 +1,16 @@
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\CollectionsAndLists\bin\Debug\net5.0\CollectionsAndLists.exe
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\CollectionsAndLists\bin\Debug\net5.0\CollectionsAndLists.deps.json
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\CollectionsAndLists\bin\Debug\net5.0\CollectionsAndLists.runtimeconfig.json
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\CollectionsAndLists\bin\Debug\net5.0\CollectionsAndLists.runtimeconfig.dev.json
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\CollectionsAndLists\bin\Debug\net5.0\CollectionsAndLists.dll
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\CollectionsAndLists\bin\Debug\net5.0\ref\CollectionsAndLists.dll
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\CollectionsAndLists\bin\Debug\net5.0\CollectionsAndLists.pdb
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\CollectionsAndLists\obj\Debug\net5.0\CollectionsAndLists.csprojAssemblyReference.cache
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\CollectionsAndLists\obj\Debug\net5.0\CollectionsAndLists.GeneratedMSBuildEditorConfig.editorconfig
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\CollectionsAndLists\obj\Debug\net5.0\CollectionsAndLists.AssemblyInfoInputs.cache
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\CollectionsAndLists\obj\Debug\net5.0\CollectionsAndLists.AssemblyInfo.cs
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\CollectionsAndLists\obj\Debug\net5.0\CollectionsAndLists.csproj.CoreCompileInputs.cache
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\CollectionsAndLists\obj\Debug\net5.0\CollectionsAndLists.dll
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\CollectionsAndLists\obj\Debug\net5.0\ref\CollectionsAndLists.dll
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\CollectionsAndLists\obj\Debug\net5.0\CollectionsAndLists.pdb
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\CollectionsAndLists\obj\Debug\net5.0\CollectionsAndLists.genruntimeconfig.cache
