@@ -1,0 +1,16 @@
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathProject\bin\Debug\net5.0\PathProject.exe
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathProject\bin\Debug\net5.0\PathProject.deps.json
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathProject\bin\Debug\net5.0\PathProject.runtimeconfig.json
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathProject\bin\Debug\net5.0\PathProject.runtimeconfig.dev.json
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathProject\bin\Debug\net5.0\PathProject.dll
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathProject\bin\Debug\net5.0\ref\PathProject.dll
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathProject\bin\Debug\net5.0\PathProject.pdb
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathProject\obj\Debug\net5.0\PathProject.csprojAssemblyReference.cache
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathProject\obj\Debug\net5.0\PathProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathProject\obj\Debug\net5.0\PathProject.AssemblyInfoInputs.cache
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathProject\obj\Debug\net5.0\PathProject.AssemblyInfo.cs
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathProject\obj\Debug\net5.0\PathProject.csproj.CoreCompileInputs.cache
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathProject\obj\Debug\net5.0\PathProject.dll
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathProject\obj\Debug\net5.0\ref\PathProject.dll
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathProject\obj\Debug\net5.0\PathProject.pdb
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\PathProject\obj\Debug\net5.0\PathProject.genruntimeconfig.cache
