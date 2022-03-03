@@ -1,0 +1,5 @@
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\ToDoList\obj\Debug\net5.0\ToDoList.csprojAssemblyReference.cache
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\ToDoList\obj\Debug\net5.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\ToDoList\obj\Debug\net5.0\ToDoList.AssemblyInfoInputs.cache
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\ToDoList\obj\Debug\net5.0\ToDoList.AssemblyInfo.cs
+D:\Calismalar\Kodluyoruzcoding.NetCampAssignments\ToDoList\obj\Debug\net5.0\ToDoList.csproj.CoreCompileInputs.cache
